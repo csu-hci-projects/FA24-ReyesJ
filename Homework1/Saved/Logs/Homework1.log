@@ -1410,3 +1410,264 @@ LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variab
 [2024.10.18-15.12.54:628][411]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
 [2024.10.18-15.12.54:734][412]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
 [2024.10.18-15.14.14:765][870]LogDerivedDataCache: C:/Users/michellv/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.045 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 802 files in 1228 folders with total size 15 MiB.
+[2024.10.18-15.21.12:804][577]LogSlate: Window 'Open Level' being destroyed
+[2024.10.18-15.25.33:199][988]LogSlate: Window 'New Level' being destroyed
+[2024.10.18-15.25.48:477][271]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.10.18-15.25.48:495][271]LogContentBrowser: Creating deferred item: NewFolder
+[2024.10.18-15.25.48:509][272]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.10.18-15.25.50:037][414]LogContentBrowser: Attempting asset rename: NewFolder -> UI
+[2024.10.18-15.25.50:037][414]LogContentBrowser: End creating deferred item NewFolder
+[2024.10.18-15.25.56:411][798]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.10.18-15.26.16:366][932]LogSlate: Window 'Pick Parent Class for New Widget Blueprint' being destroyed
+[2024.10.18-15.26.16:376][932]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2024.10.18-15.26.16:383][932]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2024.10.18-15.26.16:412][934]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2024.10.18-15.26.20:967][383]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> MainMenu
+[2024.10.18-15.26.20:981][383]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2024.10.18-15.26.51:943][813]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/MainMenu.MainMenu
+[2024.10.18-15.26.51:944][813]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.18-15.26.51:944][813]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.18-15.26.51:951][813]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.18-15.26.51:951][813]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.18-15.26.51:957][813]LogSlate: Warning: The command 'UMGEditor.OpenAnimDrawer' has the same default chord as 'EditorViewport.Next' [Ctrl+Shift+Space Bar]
+[2024.10.18-15.26.51:961][813]LogSlate: Warning: The command 'BlueprintEditorSpawnNodes.AddActorRefAction->CommandInfo' has the same default chord as 'BlueprintEditorSpawnNodes.(Class=/Script/BlueprintGraph.K2Node_Knot Key=R Shift=false Ctrl=false Alt=false)' [R]
+[2024.10.18-15.26.52:740][813]LogSlate: Took 0.000137 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2024.10.18-15.26.52:755][813]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find SlateColor 'Foreground'.'
+[2024.10.18-15.26.52:759][813]LogSlate: Took 0.004402 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2024.10.18-15.28.37:894][346]LogSlate: Took 0.006785 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2024.10.18-15.30.15:762][107]LogSlate: Window 'Color Picker' being destroyed
+[2024.10.18-15.30.25:666][806]LogSlate: Window 'Color Picker' being destroyed
+[2024.10.18-15.30.47:971][392]LogSlate: Window 'Color Picker' being destroyed
+[2024.10.18-15.30.53:030][730]LogSlate: Window 'Color Picker' being destroyed
+[2024.10.18-15.30.57:199][ 12]LogSlate: Window 'Color Picker' being destroyed
+[2024.10.18-15.32.23:364][486]BlueprintLog: New page: Compile MainMenu
+[2024.10.18-15.32.23:393][486]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2024.10.18-15.34.08:449][810]BlueprintLog: New page: Compile MainMenu
+[2024.10.18-15.34.08:469][810]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2024.10.18-15.34.11:691][ 29]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.18-15.34.11:751][ 29]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu" FILE="../../../../../../Users/michellv/OneDrive - Colostate/CS310H/FA24-ReyesJ-VasquezM/Homework1/Content/UI/MainMenu.uasset" SILENT=true
+[2024.10.18-15.34.11:757][ 29]LogSavePackage: Moving output files for package: /Game/UI/MainMenu
+[2024.10.18-15.34.11:757][ 29]LogSavePackage: Moving '../../../../../../Users/michellv/OneDrive - Colostate/CS310H/FA24-ReyesJ-VasquezM/Homework1/Saved/MainMenu1ED4274D4CE1E4C7C19FF2BEC1112967.tmp' to '../../../../../../Users/michellv/OneDrive - Colostate/CS310H/FA24-ReyesJ-VasquezM/Homework1/Content/UI/MainMenu.uasset'
+[2024.10.18-15.34.11:767][ 29]LogFileHelpers: InternalPromptForCheckoutAndSave took 76 ms (total: 896 ms)
+[2024.10.18-15.34.11:768][ 29]AssetCheck: New page: Asset Save: MainMenu
+[2024.10.18-15.34.11:768][ 29]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/MainMenu.MainMenu
+[2024.10.18-15.34.20:588][225]LogSlate: Window 'New Level' being destroyed
+[2024.10.18-15.34.20:598][225]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.10.18-15.34.20:598][225]LightingResults: New page: Lighting Build
+[2024.10.18-15.34.20:598][225]LoadErrors: New page: Loading map: Template_Default.umap
+[2024.10.18-15.34.20:618][225]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.10.18-15.34.20:618][225]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.18-15.34.20:621][225]LogContentBundle: [FirstPersonMap(Standalone)] Deleting container.
+[2024.10.18-15.34.20:621][225]MapCheck: New page: Map Check
+[2024.10.18-15.34.20:621][225]LightingResults: New page: Lighting Build
+[2024.10.18-15.34.20:632][225]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.10.18-15.34.20:635][225]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2024.10.18-15.34.20:652][225]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled_1'.
+[2024.10.18-15.34.20:652][225]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.18-15.34.20:653][225]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.18-15.34.20:653][225]LogAIModule: Creating AISystem for world Untitled_1
+[2024.10.18-15.34.20:666][225]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.10.18-15.34.20:677][225]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2024.10.18-15.34.20:678][225]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.10.18-15.34.20:678][225]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.181ms to complete.
+[2024.10.18-15.34.48:247][581]LogSlate: Window 'Save Level As' being destroyed
+[2024.10.18-15.34.59:869][250]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.10.18-15.34.59:896][250]LogContentBrowser: Creating deferred item: NewFolder
+[2024.10.18-15.34.59:917][251]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.10.18-15.35.04:604][549]LogContentBrowser: Attempting asset rename: NewFolder -> Levels
+[2024.10.18-15.35.04:605][549]LogContentBrowser: End creating deferred item NewFolder
+[2024.10.18-15.35.27:826][797]LogSlate: Window 'Save Level As' being destroyed
+[2024.10.18-15.35.27:928][797]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2024.10.18-15.35.27:936][797]LogSavePackage: Moving output files for package: /Game/Levels/HW1_Level1
+[2024.10.18-15.35.27:936][797]LogSavePackage: Moving '../../../../../../Users/michellv/OneDrive - Colostate/CS310H/FA24-ReyesJ-VasquezM/Homework1/Saved/HW1_Level1F33625824C82CF0B97E068B290B1BFC6.tmp' to '../../../../../../Users/michellv/OneDrive - Colostate/CS310H/FA24-ReyesJ-VasquezM/Homework1/Content/Levels/HW1_Level1.umap'
+[2024.10.18-15.35.27:951][797]LogFileHelpers: Saving map 'HW1_Level1' took 0.116
+[2024.10.18-15.35.27:951][797]Cmd: MAP LOAD FILE="../../../../../../Users/michellv/OneDrive - Colostate/CS310H/FA24-ReyesJ-VasquezM/Homework1/Content/Levels/HW1_Level1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.10.18-15.35.27:951][797]LightingResults: New page: Lighting Build
+[2024.10.18-15.35.27:951][797]LoadErrors: New page: Loading map: HW1_Level1.umap
+[2024.10.18-15.35.27:969][797]LogWorld: UWorld::CleanupWorld for HW1_Level1, bSessionEnded=true, bCleanupResources=true
+[2024.10.18-15.35.27:969][797]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.18-15.35.27:970][797]MapCheck: New page: Map Check
+[2024.10.18-15.35.27:970][797]LightingResults: New page: Lighting Build
+[2024.10.18-15.35.27:982][797]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.10.18-15.35.27:983][797]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2024.10.18-15.35.27:986][797]LogAudio: Display: Audio Device (ID: 1) registered with world 'HW1_Level1'.
+[2024.10.18-15.35.27:986][797]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.18-15.35.27:986][797]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.18-15.35.27:987][797]LogAIModule: Creating AISystem for world HW1_Level1
+[2024.10.18-15.35.28:036][797]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.10.18-15.35.28:049][797]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2024.10.18-15.35.28:051][797]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.10.18-15.35.28:051][797]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.101ms to complete.
+[2024.10.18-15.35.28:052][797]AssetCheck: New page: Asset Save: HW1_Level1
+[2024.10.18-15.35.28:052][797]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/HW1_Level1.HW1_Level1
+[2024.10.18-15.36.10:008][748]LogWindows: LaunchURL https://docs.unrealengine.com/5.3/en/BuildingWorlds/LevelEditor?utm_source=editor&utm_medium=docs&utm_campaign=help_menu
+[2024.10.18-15.36.28:081][678]LogSlate: Window 'Undo History' being destroyed
+[2024.10.18-15.36.35:833][237]LogObjectTools: Deleting 1 worlds: /Game/Levels/HW1_Level1.HW1_Level1
+[2024.10.18-15.36.35:833][237]LogObjectTools: Currently 5 active worlds: /Game/Levels/HW1_Level1.HW1_Level1, /Engine/Transient.World_0, /Engine/Transient.World_1, /Engine/Transient.World_2, /Engine/Transient.World_3
+[2024.10.18-15.36.39:428][237]LogSlate: Window 'Unable to delete level' being destroyed
+[2024.10.18-15.36.39:436][237]Message dialog closed, result: Cancel, title: Unable to delete level, text: Unable to delete level while it is open
+[2024.10.18-15.36.45:222][422]LogSlate: Window 'New Level' being destroyed
+[2024.10.18-15.36.45:231][422]LightingResults: New page: Lighting Build
+[2024.10.18-15.36.45:250][422]LogWorld: UWorld::CleanupWorld for HW1_Level1, bSessionEnded=true, bCleanupResources=true
+[2024.10.18-15.36.45:250][422]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.18-15.36.45:250][422]MapCheck: New page: Map Check
+[2024.10.18-15.36.45:250][422]LightingResults: New page: Lighting Build
+[2024.10.18-15.36.45:260][422]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.10.18-15.36.45:263][422]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2024.10.18-15.36.45:265][422]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.18-15.36.45:265][422]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.18-15.36.45:265][422]LogAIModule: Creating AISystem for world Untitled
+[2024.10.18-15.36.45:267][422]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2024.10.18-15.36.45:297][422]LoadErrors: New page: New Map
+[2024.10.18-15.36.51:904][891]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.18-15.36.51:905][891]LogObjectTools: Deleting 1 worlds: /Game/Levels/HW1_Level1.HW1_Level1
+[2024.10.18-15.36.51:905][891]LogObjectTools: Currently 5 active worlds: /Temp/Untitled_2.Untitled, /Engine/Transient.World_0, /Engine/Transient.World_1, /Engine/Transient.World_2, /Engine/Transient.World_3
+[2024.10.18-15.36.51:914][891]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2024.10.18-15.36.53:300][891]LogSlate: Window 'Delete Assets' being destroyed
+[2024.10.18-15.36.53:306][891]LogWorld: UWorld::CleanupWorld for HW1_Level1, bSessionEnded=true, bCleanupResources=true
+[2024.10.18-15.36.53:306][891]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.18-15.36.53:322][891]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2024.10.18-15.36.53:334][891]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2024.10.18-15.36.53:346][891]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2024.10.18-15.36.54:716][986]LogEditorViewport: Clicking Background
+[2024.10.18-15.36.59:547][ 46]LogSlate: Window 'Save Level As' being destroyed
+[2024.10.18-15.36.59:622][ 46]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2024.10.18-15.36.59:625][ 46]LogSavePackage: Moving output files for package: /Game/Levels/MainMenuMap
+[2024.10.18-15.36.59:625][ 46]LogSavePackage: Moving '../../../../../../Users/michellv/OneDrive - Colostate/CS310H/FA24-ReyesJ-VasquezM/Homework1/Saved/MainMenuMapA2CC14844343E91917DAC39D1E59735C.tmp' to '../../../../../../Users/michellv/OneDrive - Colostate/CS310H/FA24-ReyesJ-VasquezM/Homework1/Content/Levels/MainMenuMap.umap'
+[2024.10.18-15.36.59:642][ 46]LogFileHelpers: Saving map 'MainMenuMap' took 0.084
+[2024.10.18-15.36.59:642][ 46]Cmd: MAP LOAD FILE="../../../../../../Users/michellv/OneDrive - Colostate/CS310H/FA24-ReyesJ-VasquezM/Homework1/Content/Levels/MainMenuMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.10.18-15.36.59:642][ 46]LightingResults: New page: Lighting Build
+[2024.10.18-15.36.59:642][ 46]LoadErrors: New page: Loading map: MainMenuMap.umap
+[2024.10.18-15.36.59:659][ 46]LogWorld: UWorld::CleanupWorld for MainMenuMap, bSessionEnded=true, bCleanupResources=true
+[2024.10.18-15.36.59:659][ 46]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.18-15.36.59:659][ 46]MapCheck: New page: Map Check
+[2024.10.18-15.36.59:659][ 46]LightingResults: New page: Lighting Build
+[2024.10.18-15.36.59:670][ 46]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.10.18-15.36.59:673][ 46]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2024.10.18-15.36.59:674][ 46]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMenuMap'.
+[2024.10.18-15.36.59:674][ 46]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.18-15.36.59:674][ 46]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.18-15.36.59:675][ 46]LogAIModule: Creating AISystem for world MainMenuMap
+[2024.10.18-15.36.59:698][ 46]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.10.18-15.36.59:707][ 46]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2024.10.18-15.36.59:710][ 46]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.10.18-15.36.59:710][ 46]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.176ms to complete.
+[2024.10.18-15.36.59:711][ 46]AssetCheck: New page: Asset Save: MainMenuMap
+[2024.10.18-15.36.59:711][ 46]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/MainMenuMap.MainMenuMap
+[2024.10.18-15.37.38:237][178]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.10.18-15.37.38:245][178]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2024.10.18-15.37.38:253][178]LogContentBrowser: Creating deferred item: NewBlueprint
+[2024.10.18-15.37.38:266][179]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2024.10.18-15.37.48:281][420]LogContentBrowser: Attempting asset rename: NewBlueprint -> NewBlueprint
+[2024.10.18-15.37.48:287][420]LogContentBrowser: End creating deferred item NewBlueprint
+[2024.10.18-15.37.54:201][ 64]LogContentBrowser: Attempting asset rename: NewBlueprint -> MenuGameMode
+[2024.10.18-15.37.54:240][ 64]LogMetaData: Removing '/Game/UI/MenuGameMode.MenuGameMode:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/UI/NewBlueprint.PackageMetaData'
+[2024.10.18-15.37.54:240][ 64]LogMetaData: Removing '/Game/UI/MenuGameMode.SKEL_MenuGameMode_C:UserConstructionScript' ref from Metadata '/Game/UI/NewBlueprint.PackageMetaData'
+[2024.10.18-15.37.54:240][ 64]LogMetaData: Removing '/Game/UI/MenuGameMode.SKEL_MenuGameMode_C' ref from Metadata '/Game/UI/NewBlueprint.PackageMetaData'
+[2024.10.18-15.37.54:240][ 64]LogMetaData: Removing '/Game/UI/MenuGameMode.MenuGameMode_C' ref from Metadata '/Game/UI/NewBlueprint.PackageMetaData'
+[2024.10.18-15.37.54:240][ 64]LogMetaData: Removing '/Game/UI/MenuGameMode.MenuGameMode:EventGraph.K2Node_Event_0' ref from Metadata '/Game/UI/NewBlueprint.PackageMetaData'
+[2024.10.18-15.37.54:240][ 64]LogMetaData: Removing '/Game/UI/MenuGameMode.MenuGameMode:EventGraph.K2Node_Event_1' ref from Metadata '/Game/UI/NewBlueprint.PackageMetaData'
+[2024.10.18-15.37.54:241][ 64]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.18-15.37.54:304][ 64]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MenuGameMode" FILE="../../../../../../Users/michellv/OneDrive - Colostate/CS310H/FA24-ReyesJ-VasquezM/Homework1/Content/UI/MenuGameMode.uasset" SILENT=true
+[2024.10.18-15.37.54:307][ 64]LogSavePackage: Moving output files for package: /Game/UI/MenuGameMode
+[2024.10.18-15.37.54:307][ 64]LogSavePackage: Moving '../../../../../../Users/michellv/OneDrive - Colostate/CS310H/FA24-ReyesJ-VasquezM/Homework1/Saved/MenuGameMode44213C394359920BFB36ACBE495D8A19.tmp' to '../../../../../../Users/michellv/OneDrive - Colostate/CS310H/FA24-ReyesJ-VasquezM/Homework1/Content/UI/MenuGameMode.uasset'
+[2024.10.18-15.37.54:318][ 64]LogFileHelpers: InternalPromptForCheckoutAndSave took 76 ms (total: 972 ms)
+[2024.10.18-15.37.54:335][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2024.10.18-15.37.54:346][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2024.10.18-15.37.54:358][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2024.10.18-15.37.54:359][ 64]AssetCheck: New page: Asset Save: MenuGameMode
+[2024.10.18-15.37.54:359][ 64]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/UI/MenuGameMode.MenuGameMode
+[2024.10.18-15.38.49:943][478]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.10.18-15.38.49:951][478]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.18-15.38.49:952][478]PIE: New page: PIE session: MainMenuMap (Oct 18, 2024, 3:38:49 AM)
+[2024.10.18-15.38.49:953][478]LogPlayLevel: Display: Creating online subsystem for client :Context_5
+[2024.10.18-15.38.49:956][478]LogOnline: OSS: Created online subsystem instance for: :Context_5
+[2024.10.18-15.38.49:967][479]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainMenuMap
+[2024.10.18-15.38.49:969][479]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001546s)
+[2024.10.18-15.38.49:969][479]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainMenuMap.MainMenuMap to /Game/Levels/UEDPIE_0_MainMenuMap.MainMenuMap (0.001605s)
+[2024.10.18-15.38.49:978][479]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2024.10.18-15.38.49:980][479]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.18-15.38.49:981][479]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.18-15.38.49:981][479]LogAIModule: Creating AISystem for world MainMenuMap
+[2024.10.18-15.38.49:982][479]LogPlayLevel: PIE: World Init took: (0.001733s)
+[2024.10.18-15.38.49:982][479]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2024.10.18-15.38.49:982][479]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.18-15.38.49:982][479]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.18-15.38.49:982][479]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.18-15.38.49:982][479]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.18-15.38.49:982][479]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.10.18-15.38.49:982][479]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.18-15.38.49:982][479]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.10.18-15.38.49:982][479]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.18-15.38.49:983][479]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.18-15.38.49:983][479]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.18-15.38.49:983][479]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.18-15.38.49:984][479]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.10.18-15.38.50:002][479]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Oculus Virtual Audio Device)
+[2024.10.18-15.38.50:002][479]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.18-15.38.50:002][479]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.18-15.38.50:002][479]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.18-15.38.50:003][479]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2024.10.18-15.38.50:003][479]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2024.10.18-15.38.50:004][479]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2024.10.18-15.38.50:004][479]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2024.10.18-15.38.50:004][479]LogInit: FAudioDevice initialized with ID 2.
+[2024.10.18-15.38.50:004][479]LogAudio: Display: Audio Device (ID: 2) registered with world 'MainMenuMap'.
+[2024.10.18-15.38.50:004][479]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2024.10.18-15.38.50:010][479]LogLoad: Game class is 'MenuGameMode_C'
+[2024.10.18-15.38.50:010][479]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainMenuMap.MainMenuMap up for play (max tick rate 0) at 2024.10.18-09.38.50
+[2024.10.18-15.38.50:011][479]LogWorld: Bringing up level for play took: 0.000748
+[2024.10.18-15.38.50:026][479]PIE: Server logged in
+[2024.10.18-15.38.50:027][479]PIE: Play in editor total start time 0.079 seconds.
+[2024.10.18-15.38.53:331][844]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.18-15.38.53:331][844]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MainMenuMap
+[2024.10.18-15.38.53:331][844]LogWorld: UWorld::CleanupWorld for MainMenuMap, bSessionEnded=true, bCleanupResources=true
+[2024.10.18-15.38.53:332][844]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.18-15.38.53:336][844]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.18-15.38.53:339][844]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.18-15.38.53:347][844]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.18-15.38.53:347][844]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2024.10.18-15.38.53:347][844]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2024.10.18-15.38.53:350][844]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2024.10.18-15.38.53:354][844]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2024.10.18-15.38.53:425][850]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2024.10.18-15.38.54:764][998]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.18-15.38.54:824][998]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2024.10.18-15.38.54:828][998]LogSavePackage: Moving output files for package: /Game/Levels/MainMenuMap
+[2024.10.18-15.38.54:828][998]LogSavePackage: Moving '../../../../../../Users/michellv/OneDrive - Colostate/CS310H/FA24-ReyesJ-VasquezM/Homework1/Saved/MainMenuMapA3CCCB3F468A819162A57DB4E6BEA54E.tmp' to '../../../../../../Users/michellv/OneDrive - Colostate/CS310H/FA24-ReyesJ-VasquezM/Homework1/Content/Levels/MainMenuMap.umap'
+[2024.10.18-15.38.54:834][998]LogFileHelpers: Saving map 'MainMenuMap' took 0.038
+[2024.10.18-15.38.54:841][998]LogFileHelpers: InternalPromptForCheckoutAndSave took 76 ms (total: 1.04 sec)
+[2024.10.18-15.38.54:842][998]AssetCheck: New page: Asset Save: MainMenuMap
+[2024.10.18-15.38.54:842][998]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/MainMenuMap.MainMenuMap
+[2024.10.18-15.39.16:364][315]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/UI/MenuGameMode.MenuGameMode
+[2024.10.18-15.39.16:365][315]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.18-15.39.16:365][315]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.18-15.39.16:565][315]LogViewport: Scene viewport resized to 1525x1230, mode Windowed.
+[2024.10.18-15.40.09:546][283]BlueprintLog: New page: Compile MenuGameMode
+[2024.10.18-15.40.09:571][283]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2024.10.18-15.40.11:417][428]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.18-15.40.11:463][428]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MenuGameMode" FILE="../../../../../../Users/michellv/OneDrive - Colostate/CS310H/FA24-ReyesJ-VasquezM/Homework1/Content/UI/MenuGameMode.uasset" SILENT=true
+[2024.10.18-15.40.11:465][428]LogSavePackage: Moving output files for package: /Game/UI/MenuGameMode
+[2024.10.18-15.40.11:465][428]LogSavePackage: Moving '../../../../../../Users/michellv/OneDrive - Colostate/CS310H/FA24-ReyesJ-VasquezM/Homework1/Saved/MenuGameMode1C79878C41D8CD56C0E66E9184EDC26F.tmp' to '../../../../../../Users/michellv/OneDrive - Colostate/CS310H/FA24-ReyesJ-VasquezM/Homework1/Content/UI/MenuGameMode.uasset'
+[2024.10.18-15.40.11:471][428]LogFileHelpers: InternalPromptForCheckoutAndSave took 55 ms (total: 1.10 sec)
+[2024.10.18-15.40.11:473][428]AssetCheck: New page: Asset Save: MenuGameMode
+[2024.10.18-15.40.11:473][428]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/UI/MenuGameMode.MenuGameMode
+[2024.10.18-15.40.15:370][749]LogSlate: Window 'Content Browser' being destroyed
+[2024.10.18-15.40.15:375][749]LogSlate: Window 'Content Browser' being destroyed
+[2024.10.18-15.40.31:702][183]LogSlate: Took 0.000101 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.10.18-15.40.31:792][185]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.18-15.40.31:863][186]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.18-15.40.31:919][187]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.18-15.40.32:198][203]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Levels/MainMenuMap.MainMenuMap:PersistentLevel.MainMenuMap
+[2024.10.18-15.40.32:199][203]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.18-15.40.32:199][203]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.18-15.42.13:352][198]BlueprintLog: New page: Compile MainMenuMap
+[2024.10.18-15.42.13:369][198]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2024.10.18-15.42.14:570][323]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.18-15.42.14:657][323]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2024.10.18-15.42.14:662][323]LogSavePackage: Moving output files for package: /Game/Levels/MainMenuMap
+[2024.10.18-15.42.14:662][323]LogSavePackage: Moving '../../../../../../Users/michellv/OneDrive - Colostate/CS310H/FA24-ReyesJ-VasquezM/Homework1/Saved/MainMenuMapBB51A9DC488DB37B1053AF96A0FA3555.tmp' to '../../../../../../Users/michellv/OneDrive - Colostate/CS310H/FA24-ReyesJ-VasquezM/Homework1/Content/Levels/MainMenuMap.umap'
+[2024.10.18-15.42.14:668][323]LogFileHelpers: Saving map 'MainMenuMap' took 0.041
+[2024.10.18-15.42.14:675][323]LogFileHelpers: InternalPromptForCheckoutAndSave took 104 ms (total: 1.20 sec)
+[2024.10.18-15.42.14:677][323]AssetCheck: New page: Asset Save: MainMenuMap
+[2024.10.18-15.42.14:677][323]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/MainMenuMap.MainMenuMap
