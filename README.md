@@ -20,6 +20,9 @@ The player dies after being hit by the monsters 8 times while the monsters die a
   - **Run**: Hold down shift while moving in any direction, required in both levels.
   - **Flashlight**: Right-Click mouse or Double-click touchpad to turn on and off, required in both levels.
 
+### Work Contributions 
+I implemented the application myself and used many external resources to learn how to implement the extra features that I wanted my application to include. The rest of the README below details what the extra features are, what I used the faetures for, and the sources that taught me how to implement the features.
+
 ## Extra Features & Source Citations
 
 ### Character & Animations: ~ Mixamo.com
