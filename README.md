@@ -1,6 +1,6 @@
 # FA24-ReyesJ
 
-## Features beyond the class & Citations
+## Extra Features & Source Citations
 
 ### Character & Animations: ~ Mixamo.com
 - **Character**: Maynard
