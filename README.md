@@ -9,7 +9,7 @@ The player dies after being hit by the monsters 8 times while the monsters die a
 ### Levels
 - **Main Menu**: Sets the intiail tone of the game and introduces the monster (Viewable in the background at a distance). Using a Camera Actor viewpoint, I used the 'Set View Target with Blend' function to set a specific viewable area in the main menu level for the player. This allowed me to add detail to the main menu level that wouldv'e been impossible if I relied soley on the Main menu's UI blueprint alone. 
 - **Level One**: Game setting is a forest that the player must traverse during a full moon, relying soley on their flashlight to see the monsters.
-- **Level Two**: Game setting is deep within an ancient cave that contains an underground ravine that homes a large nest of monsters. Player must traverse the ravine carefully or else they face falling into the ravine with not nearly enough ammo to eliminate the targets. 
+- **Level Two**: Game setting is deep within a cave that contains an underground ravine that homes a large nest of monsters. Player must traverse the ravine carefully or else they face falling into the ravine with not nearly enough ammo to eliminate the targets. 
 
 ### Pickups & Controls
 - **Ammo**: The starting ammo and the ammount of ammo given by ammo pickups varies between the two levels based on the number of targets.
@@ -18,6 +18,8 @@ The player dies after being hit by the monsters 8 times while the monsters die a
   - **Jump**: Default space bar key, only required in level two.
   - **Move**: Default W,A,S,D keys for moving forward, left, down, and right.
   - **Run**: Hold down shift while moving in any direction, required in both levels.
+  - **Zoom**: Hold down caps-lock button, helps player see targets at a safer distance.
+  - **Shooting**: Left-Click mouse or Single-click touchpad to shoot weapons' projectile.
   - **Flashlight**: Right-Click mouse or Double-click touchpad to turn on and off, required in both levels.
 
 ### Work Contributions 
