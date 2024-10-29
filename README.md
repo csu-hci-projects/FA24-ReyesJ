@@ -1,5 +1,25 @@
 # FA24-ReyesJ
 
+## How the Application works
+### Plot, Targets, and Hazards
+The game itself is a straightforward first person shooter, the player has been tasked with hunting monsters. However, the monsters do not fear the player, so the task of eliminating the targets is not as simple as just finding them. I used the monsters as both my target & hazard since both the player and monster can be eliminated by one another. _**I checked the rubric to be sure that it didn't specify we were not allowed to do this, if needed I can seperate the targets & hazards in HW2.**_
+
+The player dies after being hit by the monsters 8 times while the monsters die after being shot 4 times, I initially set the monsters health to 5 hits but the difficulty when being swarmed made beating the levels too difficult. 
+
+### Levels
+- **Main Menu**: Sets the intiail tone of the game and introduces the monster (Viewable in the background at a distance). Using a Camera Actor viewpoint, I used the 'Set View Target with Blend' function to set a specific viewable area in the main menu level for the player. This allowed me to add detail to the main menu level that wouldv'e been impossible if I relied soley on the Main menu's UI blueprint alone. 
+- **Level One**: Game setting is a forest that the player must traverse during a full moon, relying soley on their flashlight to see the monsters.
+- **Level Two**: Game setting is deep within an ancient cave that contains an underground ravine that homes a large nest of monsters. Player must traverse the ravine carefully or else they face falling into the ravine with not nearly enough ammo to eliminate the targets. 
+
+### Pickups & Controls
+- **Ammo**: The starting ammo and the ammount of ammo given by ammo pickups varies between the two levels based on the number of targets.
+- **Health**: The health pickups have a set ammount of health they return for both levels. Players need to be careful to not pick them up when not needed since their health cannot exceed 100%.
+- **Controls**: 
+  - **Jump**: Default space bar key, only required in level two.
+  - **Move**: Default W,A,S,D keys for moving forward, left, down, and right.
+  - **Run**: Hold down shift while moving in any direction, required in both levels.
+  - **Flashlight**: Right-Click mouse or Double-click touchpad to turn on and off, required in both levels.
+
 ## Extra Features & Source Citations
 
 ### Character & Animations: ~ Mixamo.com
