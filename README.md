@@ -1,5 +1,10 @@
 # FA24-ReyesJ
 
+## Youtube Videos
+
+- [Homework 1 Video 1](https://youtu.be/5J2mlu4vlzc)
+- [Homework 1 Video 2](https://youtu.be/AK34PJukp3I)
+
 ## How the Application works
 ### Plot, Targets, and Hazards
 The game itself is a straightforward first person shooter, the player has been tasked with hunting monsters. However, the monsters do not fear the player, so the task of eliminating the targets is not as simple as just finding them. I used the monsters as both my target & hazard since both the player and monster can be eliminated by one another. _**I checked the rubric to be sure that it didn't specify we were not allowed to do this, if needed I can seperate the targets & hazards in HW2.**_
