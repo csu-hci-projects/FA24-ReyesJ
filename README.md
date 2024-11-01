@@ -1,5 +1,8 @@
 # FA24-ReyesJ
 
+# IMPORTANT!!
+## Download the Cave Ruins, Medieval Dungeon, and Temperate Vegetation: Spruce Forest libraries from the Fab Library and import them into the project in order to run the game
+
 ## Youtube Videos
 
 - [Homework 1 Video 1](https://youtu.be/5J2mlu4vlzc)
