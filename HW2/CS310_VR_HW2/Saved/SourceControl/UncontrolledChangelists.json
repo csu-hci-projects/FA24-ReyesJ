@@ -1,0 +1,43 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Jovan/OneDrive/Desktop/CS310/CS310_VR_HW2/Content/VRTemplate/Maps/VRTemplateMap.umap",
+				"C:/Users/Jovan/OneDrive/Desktop/CS310/CS310_VR_HW2/Content/VRTemplate/Maps/VRTemplateMap_BuiltData.uasset",
+				"C:/Users/Jovan/OneDrive/Desktop/CS310/CS310_VR_HW2/Content/MyBlueprints/MovingBoxController.uasset",
+				"C:/Users/Jovan/OneDrive/Desktop/CS310/CS310_VR_HW2/Content/MyBlueprints/BTMovingBox.uasset",
+				"C:/Users/Jovan/OneDrive/Desktop/CS310/CS310_VR_HW2/Content/MyBlueprints/BT_ServiceMove.uasset",
+				"C:/Users/Jovan/OneDrive/Desktop/CS310/CS310_VR_HW2/Content/VRTemplate/Blueprints/Pistol.uasset",
+				"C:/Users/georeyes/Documents/Unreal Projects/CS310_VR_HW2/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
+				"C:/Users/georeyes/Documents/Unreal Projects/CS310_VR_HW2/Content/MyLevels/Level_One.umap",
+				"C:/Users/georeyes/Documents/Unreal Projects/CS310_VR_HW2/Content/MyBlueprints/Box.uasset",
+				"C:/Users/georeyes/Documents/Unreal Projects/CS310_VR_HW2/Content/MyBlueprints/BoxProp.uasset",
+				"C:/Users/georeyes/Documents/Unreal Projects/CS310_VR_HW2/Content/MyLevels/Level_One_BuiltData.uasset",
+				"C:/Users/georeyes/Documents/Unreal Projects/CS310_VR_HW2/Content/VRTemplate/Maps/VRTemplateMap.umap",
+				"C:/Users/georeyes/Documents/Unreal Projects/CS310_VR_HW2/Content/VRTemplate/Blueprints/Pistol.uasset",
+				"C:/Users/georeyes/Documents/Unreal Projects/CS310_VR_HW2/Content/MyBlueprints/IA_Reload_Right.uasset",
+				"C:/Users/georeyes/Documents/Unreal Projects/CS310_VR_HW2/Content/VRTemplate/Input/IMC_Weapon_Right.uasset",
+				"C:/Users/georeyes/Documents/Unreal Projects/CS310_VR_HW2/Content/VRTemplate/Blueprints/Projectile.uasset",
+				"C:/Users/georeyes/Documents/Unreal Projects/CS310_VR_HW2/Content/myMaterial/Bullet.uasset",
+				"C:/Users/georeyes/Documents/Unreal Projects/CS310_VR_HW2/Content/VRTemplate/Maps/VRTemplateMap_BuiltData.uasset",
+				"C:/Users/georeyes/Documents/Unreal Projects/CS310_VR_HW2/Content/MyAudio/machine-gun-reload-81593.uasset",
+				"C:/Users/georeyes/Documents/Unreal Projects/CS310_VR_HW2/Content/MyAudio/various-lazer-sounds-32545.uasset",
+				"C:/Users/georeyes/Documents/Unreal Projects/CS310_VR_HW2/Content/MyAudio/various-lazer-sounds-32545__1_.uasset",
+				"C:/Users/georeyes/Documents/Unreal Projects/CS310_VR_HW2/Content/VRTemplate/Blueprints/charging-laser-106217.uasset",
+				"C:/Users/georeyes/Documents/Unreal Projects/CS310_VR_HW2/Content/MyBlueprints/MovingBox.uasset",
+				"C:/Users/georeyes/Documents/Unreal Projects/CS310_VR_HW2/Content/MyBlueprints/BBMovingBox.uasset",
+				"C:/Users/georeyes/Documents/Unreal Projects/CS310_VR_HW2/Content/MyBlueprints/BTMovingBox.uasset",
+				"C:/Users/georeyes/Documents/Unreal Projects/CS310_VR_HW2/Content/MyBlueprints/MovingBoxController.uasset",
+				"C:/Users/georeyes/Documents/Unreal Projects/CS310_VR_HW2/Content/MyBlueprints/BT_ServiceMove.uasset",
+				"C:/Users/georeyes/Documents/Unreal Projects/CS310_VR_HW2/Content/MyBlueprints/Flashlight.uasset",
+				"C:/Users/georeyes/Documents/Unreal Projects/CS310_VR_HW2/Content/MyBlueprints/TargetScore.uasset",
+				"C:/Users/georeyes/Documents/Unreal Projects/CS310_VR_HW2/Content/MyBlueprints/Congrats.uasset",
+				"C:/Users/georeyes/Documents/Unreal Projects/CS310_VR_HW2/Content/MyBlueprints/Trophy.uasset",
+				"C:/Users/georeyes/Documents/Unreal Projects/CS310_VR_HW2/Content/MyLevels/FirstLevel.umap"
+			]
+		}
+	]
+}
